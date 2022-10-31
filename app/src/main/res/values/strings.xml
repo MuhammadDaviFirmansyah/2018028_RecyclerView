@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">2018028-Recycle View Daftar Game</string>
+    <string-array name="game">
+        <item>Pokemon Legends of Arceus</item>
+        <item>Elden Ring</item>
+        <item>Honkai Impact 3rd</item>
+        <item>Project Diva Megamix</item>
+        <item>Overwatch 2</item>
+        <item>Monopoly HD</item>
+        <item>Persona 5 Royal</item>
+        <item>Super Smash Bros Ultimate</item>
+    </string-array>
+    <string-array name="harga">
+        <item>Rp. 759.000</item>
+        <item>Rp. 660.000</item>
+        <item>Free to Play</item>
+        <item>Rp. 550.000</item>
+        <item>Free to Play</item>
+        <item>Rp. 69.000</item>
+        <item>Rp. 500.000</item>
+        <item>Rp. 769.000</item>
+    </string-array>
+</resources>
